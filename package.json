@@ -1,0 +1,19 @@
+{
+  "name": "platform",
+  "version": "1.0.0",
+  "description": "testing websocket integration with the twitch api",
+  "main": "index.js",
+  "keywords": [
+    "socket.io",
+    "platform"
+  ],
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "~2.3.0"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "paint",
+  "license": "MIT"
+}
